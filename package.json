@@ -1,7 +1,7 @@
 {
-  "name": "project_gulp",
+  "name": "embaixador-web",
   "version": "1.0.0",
-  "title": "Project Gulp",
+  "title": "embaixador-web",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
@@ -16,5 +16,9 @@
   },
   "dependencies": {
     "gulp-htmlmin": "^4.0.0"
+  },
+  "scripts": {
+    "start": "gulp",
+    "deploy": "gulp deploy"
   }
 }
