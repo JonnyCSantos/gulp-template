@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "title": "embaixador-web",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-imagemin": "^4.1.0",
     "gulp-jshint": "^2.1.0",
